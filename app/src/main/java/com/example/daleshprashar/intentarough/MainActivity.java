@@ -16,6 +16,10 @@ Intent i = null;
         setContentView(R.layout.activity_main);
 
     }
+    public void gitmethod()
+    {
+        System.out.println("for github practise");
+    }
 
     public  void  selection(View view)
     {
@@ -66,5 +70,6 @@ Intent i = null;
         }
 
 
+//// jai shree ramamm GOD IS LOVELY...
     }
 }
